@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/workspaces/clgcode",
-      "program": "/workspaces/clgcode/build/Debug/outDebug",
+      "cwd": "/workspaces/clgcode/C_Programs",
+      "program": "/workspaces/clgcode/C_Programs/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
